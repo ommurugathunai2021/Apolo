@@ -1,0 +1,39 @@
+@charset "UTF-8";
+@font-face {
+    font-family: Lato-Thin;
+    src: url(../font/lato/Lato-Thin.ttf);
+    font-display: fallback
+}
+
+@font-face {
+    font-family: Lato-Light;
+    src: url(../font/lato/Lato-Light.ttf);
+    font-display: fallback
+}
+
+@font-face {
+    font-family: Lato-Regular;
+    src: url(../font/lato/Lato-Regular.ttf);
+    font-display: fallback
+}
+
+@font-face {
+    font-family: Lato-Bold;
+    src: url(../font/lato/Lato-Bold.ttf);
+    font-display: fallback
+}
+
+@font-face {
+    font-family: Lato-Black;
+    src: url(../font/lato/Lato-Black.ttf);
+    font-display: fallback
+}
+
+@font-face {
+    font-family: Cardo-Regular;
+    src: url(../font/cardo/Cardo-Regular.ttf)
+}
+
+@font-face {
+    font-family: Cardo-Bold
+}
